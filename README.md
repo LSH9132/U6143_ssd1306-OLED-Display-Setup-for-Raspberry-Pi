@@ -14,7 +14,7 @@ Automated setup script and driver for U6143_ssd1306 OLED displays on Raspberry P
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/lsh9132/U6143_ssd1306.git
+git clone https://github.com/LSH9132/U6143_ssd1306.git
 
 # Navigate to installation directory
 cd U6143_ssd1306
@@ -83,6 +83,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors
 
 ## 📞 Contact
-- GitHub Issues: [Create an issue](https://github.com/lsh9132/U6143_ssd1306/issues)
+- GitHub Issues: [Create an issue](https://github.com/LSH9132/U6143_ssd1306/issues)
 - Email: me@lshworkspace.com
 
