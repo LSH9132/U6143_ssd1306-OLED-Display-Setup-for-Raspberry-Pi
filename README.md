@@ -33,6 +33,10 @@ sudo bash setup_U6143_ssd1306.sh
 This project is an automation tool designed to simplify the use of U6143_ssd1306 OLED displays with Raspberry Pi. It automates the complex process of I2C configuration and driver installation, allowing users to get their display running with minimal effort.
 
 ### 📚 Directory Structure
+Not yet implemented :(
+I will update soon as soon possible sry..
+
+
 ```
 U6143_ssd1306/
 ├── setup_U6143_ssd1306.sh
